@@ -1,0 +1,2 @@
+#define IDC_ICON						500
+IDC_ICON				ICON     DISCARDABLE "CracksLatinos.ico"

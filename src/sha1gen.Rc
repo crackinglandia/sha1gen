@@ -1,0 +1,6 @@
+#include <Res\sha1genDlg.rc>
+#include "Res/sha1genVer.rc"
+#include "Res/sha1genRes.rc"
+
+
+1 24 "Res/EstiloXP.exe.Manifest"
